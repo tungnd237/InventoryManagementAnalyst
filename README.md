@@ -2,20 +2,22 @@
 statistical data mining project concerning clustering method in inventory management problem
 
 ## goal for 4/4 - until next meeting on 4/7 Fri. 14:00 at Burger King
-- goals in biz aspect
-	- check feasibility of objectives, mainly 2) (because many directions are possible for obj2)
-        - 2) Identify optimal inventory levels for each cluster
-	- identify performance goals
-        - 4 performance goals with more specifications
-            	- 1) reduced inventory carrying costs
-	            - 2) optimize inventory levels -> efficient use of resources 
-                - 3) increased product availability
-                - 4) faster order fullfillment
-- goals for dataset analysis
-	- 1) identify which dataset best fit for our biz goal/purposes
-    - 2) compare various clustering methods
-	- 3) improve kmc(or other outstanding clustering method) in terms of performance metrics
-	- 4) interpretation of resulting clusters as in most contributing features
+### Goals - in biz aspect
+- check feasibility of objectives, mainly 2) (because many directions are possible for obj2)
+    - obj2 = Identify optimal inventory levels for each cluster
+- identify performance goals 
+    - reduce redundancy, increase independency
+    - Define 4 performance goals:
+        1) reduced inventory carrying costs
+        2) optimize inventory levels
+        3) increased product availability
+        4) faster order fullfillment
+
+### Goals - for dataset analysis
+	1) identify which dataset best fit for our biz goal/purposes
+    2) compare various clustering methods
+	3) improve kmc(or other outstanding clustering method) in terms of performance metrics
+	4) interpretation of resulting clusters as in most contributing features
 		- are the clusters just artefactual result from particular datasets/clustering models?
 	
 ## 0404 after class meeting: setting objectives
