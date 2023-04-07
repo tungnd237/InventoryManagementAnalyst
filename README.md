@@ -1,6 +1,14 @@
 # 2023_statdm_project
 statistical data mining project concerning clustering method in inventory management problem
 
+### 0407 - until next meeting 4/14 Fri 1600
+- 4/7 roles -> testing out different clustering methods to find the right/well-defined clusters
+	- [jupyter notebook] suggest on Github: method-performance index as a pair 
+		- give simple reasoning
+	- the suggestor try out the method and post the result & performance on Github
+	- do this in parallel and could go serial working if you see something more could be done for some methods -> ex) visualization could be more efficient in some methods
+
+
 ## goal for 4/4 - until next meeting on 4/7 Fri. 14:00 at Burger King
 ### Goals - in biz aspect
 - check feasibility of objectives, mainly 2) (because many directions are possible for obj2)
