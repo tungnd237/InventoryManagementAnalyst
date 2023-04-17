@@ -1,68 +1,58 @@
 # 2023_statdm_project
 statistical data mining project concerning clustering method in inventory management problem
 
-### 0407 - until next meeting 4/14 Fri 1600
-- 4/7 roles -> testing out different clustering methods to find the right/well-defined clusters
-	- [jupyter notebook] suggest on Github: method-performance index as a pair 
-		- give simple reasoning
-	- the suggestor try out the method and post the result & performance on Github
-	- do this in parallel and could go serial working if you see something more could be done for some methods -> ex) visualization could be more efficient in some methods
+[past README archive](./readme_archive.md)
 
+group work history summary:
+## [ ] 5/2 TUE 0930 = mid presentation
 
-## goal for 4/4 - until next meeting on 4/7 Fri. 14:00 at Burger King
-### Goals - in biz aspect
-- check feasibility of objectives, mainly 2) (because many directions are possible for obj2)
-    - obj2 = Identify optimal inventory levels for each cluster
-- identify performance goals 
-    - reduce redundancy, increase independency
-    - Define 4 performance goals:
-        1) reduced inventory carrying costs
-        2) optimize inventory levels
-        3) increased product availability
-        4) faster order fullfillment
+## [3] 4/17 MON 1900
+1. quick progress 
+	1. **i did ~**
+2. objective 
+	1. **in ppt, expecting ~** 
+	2. **in ppt, there should at least be ~ items** 
+	3. **how can our ppt be different from usual subjects?**
+3. problem 
+	1. **not sure about ~**
+	2. **more of ~ because ~** 
+4. role/goal setting
+	1. storyboard & ppt
+	2. explain the journey OR step the steps (depends on given time limit)
+5. questions to TA: when to arrange a meeting? what questions should we ask?
 
-### Goals - for dataset analysis
-	1) identify which dataset best fit for our biz goal/purposes
-    2) compare various clustering methods
-	3) improve kmc(or other outstanding clustering method) in terms of performance metrics
-	4) interpretation of resulting clusters as in most contributing features
-		- are the clusters just artefactual result from particular datasets/clustering models?
-	
-## 0404 after class meeting: setting objectives
-grouping products based on the demands
-higher demand - group and logistic regression
-/
-regression on the demands
-/
-group based on the demands
+---
+## 4/14 FRI 1500 (POSTPONED)
+---
+## [2] 4/7 FRI 1500
+### 1. Data source = [Superstore](https://www.kaggle.com/code/seifmohmed/end-to-end-data-science-project-part-1-analysis)
+	reasoning:
+	1) optimal inventory levels inferrable
+	2) consumer-specific data (not in UCI) 
+	3) data is almost in raw form
 
-## questions (thoughts before 0404)
-- the problem statement on inventory management has specific, inherent, multiple restrictions related to business aspects -> objective is kind of in between data analytics and process optimization(which can turn very mathematical)
+### 2. Preprocessing
+- check for anomalities in dataset
 
-## what to keep
-- Data = inventory data from manufacturing company
-	- inventory levels, demand forecasts, product attr
-	- Superstore Dataset (from Tableau)
-	
-- Method = cluster products based on demand patterns
-	- K-means clustering to group products based on demand patterns for each product
-	
-- Objective = identify **optimal inventory levels** for each cluster
-	- 1) Identify groups of products with similar **demand patterns**
-		- reduce inventory cost (How so after identification of clusters?)
-	- 2) Identify optimal inventory levels for each cluster<-
-	
-- Performance Goals = better inventory management 
-	- 1) reduced inventory carrying costs
-	- 2) optimize inventory levels -> efficient use of resources 
-	- 3) increased product availability
-	- 4) faster order fullfillment
-	
-## goal for midterm(thoughts before 0404)
-- how are our dataset and objectives special? 
-    - practicallity / generalizablility
-	- since particular methods work best for particular data types 
-        - reason with method-data type interactions
-- probably more like a PoC
+### 3. Clustering
 
+	actual implications of clustering?
+> can we identify cluster with high level of profit performance?
 
+	assumption: certain products are of high popularity
+- -> drop unrelated variables and start with important variables
+
+### 4. Validation and Interpretation of Results
+	1. improve performance of classification
+	2. find meaningful interpretation/approach for each cluster
+---
+## [1] 4/4 TUE after class
+### 1. basic approach = grouping products based on the demands
+
+### 2. Objective
+	1. Identify groups of products with similar demand patterns
+	2. Identify optimal inventory levels for each cluster
+### 3. Performance metrics
+	1. inventory carrying costs 
+	2. product availability
+	3. order fullfillment speed
