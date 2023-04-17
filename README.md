@@ -20,6 +20,26 @@ group work history summary:
 	1. storyboard & ppt
 	2. explain the journey OR step the steps (depends on given time limit)
 5. questions to TA: when to arrange a meeting? what questions should we ask?
+---
+#### New goals
+- include interpretations for each clustering method
+- different approaches for the same method
+	- setup likely groups of variables, and test each method with the selected groups of variables
+		- based on the basic performance metrics (ex: silhouette) and visual representation of clusters
+
+#### Questions
+- about presentation
+	- what are the required items to have in the ppt?
+	- time limit of presentation (to decide the # of slides)
+- about project
+	- about the dataset & preprocessing (gp)
+		- bias of the datasets (gp)
+	- about evaluation with different performance metric  & clustering methods
+		- objective: well separating product clusters? finding the right combination of features that lets better cluster separation?
+
+- start with objective of the project
+- feature selection methods - prior knowledge, autoselection packages(boruata)
+- outlier handling (boundaries)
 
 ---
 ## 4/14 FRI 1500 (POSTPONED)
