@@ -4,7 +4,55 @@ statistical data mining project concerning clustering method in inventory manage
 [past README archive](./readme_archive.md)
 
 group work history summary:
-## [ ] 5/2 TUE 0930 = mid presentation
+
+## [5] 5/8 MON 1900 Monet
+1) solid analysis objectives - what form of results do we need, what details should we present for the audience to understand better
+2) outline for the presentation, according to the theme(=pursuading why the company should try our method)
+3) statistical validity, cluster interpretation validity checking procedures
+
+## [4] 5/2 TUE 0930 = mid presentation
+### Questions
+- q1) how did we plan to handle time/seasonality effect (Ship/Order Date)
+- q2) explanation on each cluster difficult to understand - example of product for each cluster?
+- q3) still need to identify main characteristic for each cluster
+	- how does the new suggested analysis incorporate into industry-common approach in dealing with product management? 
+- q4) how does it predict the demand, variance to accomodate for each product?
+- q5) more direct implications to inventory level improvement needed
+
+### Feedbacks
+- it's important to get ino the details about the clusteiring results
+- check whether the results are consistent with our common sense to guarantee if we’re actually in the right direction
+- look at the details about the result
+
+### (Compare with other teams' feedback)
+1. g1
+- what can we do with the results?
+- any interesting insights?
+- clear proejct objective needed
+2. g2
+- try analyze with elementary methods FIRST
+- which factors affect the exchange rate (target variable)
+- have to look at histogram and elemenatry methods
+- before considering complex models, have to look at the details of the data
+
+### Overall Feedback
+- not gentle/kind to the audience
+- introduce terms and domain topics better
+- problem, what you want to do -> dataset -> basic analysis  /eda -> basic modeling
+- result should be consistent to the common sense - for the validity of the pursuation
+- don’t need to explain the technical stuff
+- consider more what content to introduce in the presentation in 10 mins
+- prep more into delivery of the results than the analysis itself
+
+- need to use easier word - for the delivery
+- make presentation look as easy as possible
+
+### Notice for final presentation
+- final = live presentation
+- assume audience have no prev knowledge
+- write a report before the finals
+- grading = report + presentation 
+
 
 ## [3] 4/17 MON 1900
 1. quick progress 
@@ -22,7 +70,7 @@ group work history summary:
 5. questions to TA: when to arrange a meeting? what questions should we ask?
 ---
 #### New goals
-- include interpretations for each clustering method
+- include interpretations for each clustering method 
 - different approaches for the same method
 	- setup likely groups of variables, and test each method with the selected groups of variables
 		- based on the basic performance metrics (ex: silhouette) and visual representation of clusters
