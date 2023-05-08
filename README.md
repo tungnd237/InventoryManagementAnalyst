@@ -5,7 +5,7 @@ statistical data mining project concerning clustering method in inventory manage
 
 group work history summary:
 
-## [7] 5/26 TUES 1900 Building#4 Room#309
+## [7] 5/16 TUES 1900 Building#4 Room#309
 
 ## [6] 5/10-11 TA meeting 
 - 5/10 WED - after 2000
