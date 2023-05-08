@@ -10,6 +10,31 @@ group work history summary:
 2) outline for the presentation, according to the theme(=pursuading why the company should try our method)
 3) statistical validity, cluster interpretation validity checking procedures
 
+### talk
+# 2023/05/08
+1. interpretating clusters with decision tress
+### good = it works
+- good way to summarize what the clusters mean - how many data points go into each cluster and the conditions in which those data points exhibit
+
+### bad = too much effort - both in text and visually
+- information is overly dense in the decision tree plots.
+	- there’s a lot for an researcher to hypothesis and analyze about the decision tree in order to make a valid inference onto the business insights
+	- since it takes a lot of effort into interpreting clusters with decision trees, we are goint to have to identify the best clustering methods according to the solid objectives (mathematical, business objective, or just aggregate feature wise)
+- even when the decision tree provides a valid way to understand the clusters, it’s a bad visualization in a default setting - hard to navigate on the presentation if it’s a high resolution
+	- if we’re to take decision tree to explain the clusters in the presentation we are going to have to use less depth of the trees or use a summarization of the representative leaves
+
+2. make the business objective to optimize more solid (main objective of the project = optimization of inventory management)
+- compare with demand based clusters vs optimized clusters - we need information on the original time durations between order-ship dates
+	- take time series data - ship/order dates into the model
+	- maybe just a feature introduction - difference between the ship/order dates
+- should include more AS-IS manangement based approach on inventory management (something like control group for a comparison)
+
+3. how we should present the results - presentation wise
+- approach as in business objectives
+- come up with business wise reasons as to why they should switch to our method
+
+
+---
 ## [4] 5/2 TUE 0930 = mid presentation
 ### Questions
 - q1) how did we plan to handle time/seasonality effect (Ship/Order Date)
