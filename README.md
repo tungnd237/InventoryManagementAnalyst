@@ -10,6 +10,20 @@ group work history summary:
 2) outline for the presentation, according to the theme(=pursuading why the company should try our method)
 3) statistical validity, cluster interpretation validity checking procedures
 
+### outline for the final presentation
+> rough sketch for the outline of the final presentation
+1. **solid objective** <- other than just “inventory objective”
+2. business objective to decide the hyperparameters
+3. model base
+	1. would the performance metrics like silhouette & calinski charts useful for the audiences
+4. interpretation of model results(clusters)
+	1. how should we visualize the various decision trees used for interpretation of each clusters
+5. how we use the clusters to improve AS-IS
+	1. what is as-is and what are the pros & cons
+	2. domain knowledge <- what stat method are inventory managing companies using these days?
+	3. present the comparison between as-is based clustering and our clustering (one way to do a comparison - there could be better distinguishing ways to pursuade the audience)
+6. final persuasion conclusions
+
 ### talk
 # 2023/05/08
 1. interpretating clusters with decision tress
