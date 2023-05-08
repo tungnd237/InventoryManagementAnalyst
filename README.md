@@ -5,6 +5,13 @@ statistical data mining project concerning clustering method in inventory manage
 
 group work history summary:
 
+## [7] 5/26 TUES 1900 Building#4 Room#309
+
+## [6] 5/10-11 TA meeting 
+- 5/10 WED - after 2000
+- 5/11 THURS - after 1900
+- if you need to arrange the questions before the TA meeting come 20-30 mins before
+
 ## [5] 5/8 MON 1900 Monet
 1) solid analysis objectives - what form of results do we need, what details should we present for the audience to understand better
 2) outline for the presentation, according to the theme(=pursuading why the company should try our method)
