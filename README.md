@@ -11,6 +11,35 @@ group work history summary:
 - 5/10 WED - after 2000
 - 5/11 THURS - after 1900
 - if you need to arrange the questions before the TA meeting come 20-30 mins before
+### meeting results
+#### project overview: rough sketch for the outline of the final presentation
+1. **solid objective** <- other than just “inventory objective”
+2. business objective to decide the hyperparameters
+3. model base
+	1. would the performance metrics like silhouette & calinski charts useful for the audiences
+4. interpretation of model results(clusters)
+	1. how should we visualize the various decision trees used for interpretation of each clusters
+---
+5. **how we use the clusters to improve AS-IS**
+	1. what is as-is and what are the pros & cons
+	2. domain knowledge <- what stat method are inventory managing companies using these days?
+	3. present the comparison between as-is based clustering and our clustering (one way to do a comparison - there could be better distinguishing ways to pursuade the audience)
+---
+6. final persuasion conclusions
+
+> main focus from 5/10~5/17 = step 5: how we use the clusters to improve AS-IS
+
+---
+#### checklists from 5/10 to 5/17
+- [ ] #1  **solid objective** <- other than just “inventory objective”
+	- [ ] 
+- [ ] #2 **how we use the clusters to improve AS-IS**
+	- [ ] what is as-is and what are the pros & cons
+	- [ ] what stat method are inventory managing companies using these days?
+	- [ ] present the comparison between as-is based clustering and our clustering (one way to do a comparison - there could be better distinguishing ways to pursuade the audience)
+
+
+
 
 ## [5] 5/8 MON 1900 Monet
 1) solid analysis objectives - what form of results do we need, what details should we present for the audience to understand better
