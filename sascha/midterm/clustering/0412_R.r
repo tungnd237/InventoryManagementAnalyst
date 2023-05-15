@@ -3,7 +3,7 @@ library(caret)
 library(glmnet)
 library(detectseparation)
 
-data <- read.csv("/Users/silmari/2023_statdm_project/sascha/data/superstore_noid.csv")
+data <- read.csv("../data/superstore.csv")
 
 ROOT.DIR <- ".."
 
