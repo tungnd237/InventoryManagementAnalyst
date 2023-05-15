@@ -14,7 +14,7 @@ library(glmnet)
 library(detectseparation)
 ID.VAR <- "Order.ID"
 TARGET.VAR <- "Sales"
-sample.df <- read.csv("/Users/silmari/2023_statdm_project/sascha/data/superstore_noid.csv")
+sample.df <- read.csv("../data/superstore.csv")
 ```
 
 ```{r}
