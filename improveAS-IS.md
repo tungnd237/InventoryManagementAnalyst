@@ -15,7 +15,7 @@ Cons:
 Does not consider variability among products in terms of sales, quantity sold, discount amount, profit, and category.
 Potential for overstocking or understocking, missed sales opportunities, and suboptimal profitability.
 
-###Domain Knowledge - Statistical Methods in Inventory Management
+### Domain Knowledge - Statistical Methods in Inventory Management
 
 Modern inventory management companies increasingly utilize data analytics and machine learning for optimization. These techniques include:
 
