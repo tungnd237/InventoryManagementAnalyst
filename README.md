@@ -28,12 +28,12 @@ group work history summary:
 - tsne shows better performances at times, but we only get to see the performance metric numbers that outstands, not very much the visualization of the clusters that makes sense to the general audience. -> should consider ways to present the t-sne clustering visualization - something more like what pca-based clustering does better
 
 ## [7] 5/16 TUES 1900 Building#4 Room#309
-- (근우) 진행중
-1. 데이터 설명(용도: 보고서, 분석중 데이터 참조)
-2. 목적 측면 논리 확인 + mid term 질문에 대한 답변 준비
-	1. prior knowledge와 클러스터링 결과상 각 클러스터에 속한 데이터 포인트가 일치하는 성질을 갖는지 여부 확인
-	- prior knowledge가 정확히 어떤 것들이 있는지?
-3. 도메인 배경에 대한 설명 - scm에서 inventory management의 위치와 역할, 풀려고 하는 문제상황
+- (GW) In Progress 
+1. Data Introduction(for report & our analysis utility)
+2. Resolve logic leading up & after the objective + resolve mid term questions
+	1. prior knowledge-clustering result correspondence check
+	- specify what prior knowledge exist
+3. Background(Domain) - SCM: inventory management: what role inv mgmt plays, what our problem space is
 	1. ****solid objective**** <- other than just “inventory objective”
 	2. business objective to decide the hyperparameters
 	3. ****how we use the clusters to improve AS-IS****
@@ -43,11 +43,11 @@ group work history summary:
 	1. ****how we use the clusters to improve AS-IS****
 		1. present the comparison between as-is based clustering and our clustering (one way to do a comparison - there could be better distinguishing ways to pursuade the audience)
 
-- mid term에서 연결되는 내용
+- continuing from mid term:
 3. model base
     1. would the performance metrics like silhouette & calinski charts useful for the audiences
 
-- (현지님) 진행중
+- (HJ) In Progress:
 **4. interpretation of model results(clusters)**
     1. how should we visualize the various decision trees used for interpretation of each clusters
     
@@ -59,8 +59,7 @@ group work history summary:
 ---
 6. final persuasion conclusions
 ---
-- prior knowledge와 클러스터링 결과상 각 클러스터에 속한 데이터 포인트가 일치하는 성질을 갖는지 여부 확인
-	- prior knowledge가 정확히 어떤 것들이 있는지?
+
 ## [6] 5/10-11 TA meeting 
 - 5/10 WED - after 2000
 - 5/11 THURS - after 1900
