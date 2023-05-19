@@ -3,10 +3,64 @@ statistical data mining project concerning clustering method in inventory manage
 
 [past README archive](./readme_archive.md)
 
+## Report&PPT due: 5/28 SUN 
+## Final presentation: 5/30 TUES
 group work history summary:
+## [9] 5/24 WED 2010 Building#4 Room#309
+## [8] 5/19 FRI 1510 Building#4 Room#309
+### 1. AS-IS vs CB Approach
+1. AS-IS vs Clustering-Based Approach: Section Progress Plans
+- AS-IS: rules on segmentations, defined by a feature
+- CB: rules on segmentations, defined by a set of features
+2.  questions to answer
+	1. is it always better to include more features to inv mgmt rules? -> complexity and performances
+	2. when is it better to have more features to decide the inv mgmt rules? -> 
+	3. which approach(1~few features vs large set of features) fits better in the Superstore problem case?
+3.  progresssion on this section
+	1. background on inv mgmt control and optimization
+	- Statistical Methods in Inventory Management
+	2. q1) is it always better to use clustering based method to make inv mgmt rules?
+	- AS-IS Model: Pros and Cons
+	3. q2) which approach(1~few features vs large set of features) fits better in the Superstore problem case?
+
+### 2. within&between cluster interpretations
+- + (summary of the linear regression prediction significance tests)
+- tsne shows better performances at times, but we only get to see the performance metric numbers that outstands, not very much the visualization of the clusters that makes sense to the general audience. -> should consider ways to present the t-sne clustering visualization - something more like what pca-based clustering does better
 
 ## [7] 5/16 TUES 1900 Building#4 Room#309
+- (근우) 진행중
+1. 데이터 설명(용도: 보고서, 분석중 데이터 참조)
+2. 목적 측면 논리 확인 + mid term 질문에 대한 답변 준비
+	1. prior knowledge와 클러스터링 결과상 각 클러스터에 속한 데이터 포인트가 일치하는 성질을 갖는지 여부 확인
+	- prior knowledge가 정확히 어떤 것들이 있는지?
+3. 도메인 배경에 대한 설명 - scm에서 inventory management의 위치와 역할, 풀려고 하는 문제상황
+	1. ****solid objective**** <- other than just “inventory objective”
+	2. business objective to decide the hyperparameters
+	3. ****how we use the clusters to improve AS-IS****
+	    1. what is as-is and what are the pros & cons
+	    2. domain knowledge <- what stat method are inventory managing companies using these days?
+4. 성능비교
+	1. ****how we use the clusters to improve AS-IS****
+		1. present the comparison between as-is based clustering and our clustering (one way to do a comparison - there could be better distinguishing ways to pursuade the audience)
 
+- mid term에서 연결되는 내용
+3. model base
+    1. would the performance metrics like silhouette & calinski charts useful for the audiences
+
+- (현지님) 진행중
+**4. interpretation of model results(clusters)**
+    1. how should we visualize the various decision trees used for interpretation of each clusters
+    
+---
+5. ****how we use the clusters to improve AS-IS****
+    1. what is as-is and what are the pros & cons
+    2. domain knowledge <- what stat method are inventory managing companies using these days?
+    **3. present the comparison between as-is based clustering and our clustering (one way to do a comparison - there could be better distinguishing ways to pursuade the audience)**
+---
+6. final persuasion conclusions
+---
+- prior knowledge와 클러스터링 결과상 각 클러스터에 속한 데이터 포인트가 일치하는 성질을 갖는지 여부 확인
+	- prior knowledge가 정확히 어떤 것들이 있는지?
 ## [6] 5/10-11 TA meeting 
 - 5/10 WED - after 2000
 - 5/11 THURS - after 1900

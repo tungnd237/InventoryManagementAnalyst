@@ -32,3 +32,19 @@ A comparative analysis of the AS-IS method and the new clustering methods reveal
 * Detail-oriented: Clustering offers a granular view of product assortment, in contrast to the AS-IS approach which might not differentiate among products.
 * Adaptive: Clustering can adapt to changes in product performance, with clusters being recalculable with new sales data. The AS-IS method may lack such flexibility.
 * Profit-focused: The new clustering methods incorporate data on discount amount and profit. This allows inventory management to focus on not just sales volume, but also profitability.
+
+### AS-IS vs Clustering-Based Approach: Section Progress Plans
+- AS-IS: rules on segmentations, defined by a feature
+- CB: rules on segmentations, defined by a set of features
+#### questions to answer
+1. is it always better to include more features to inv mgmt rules? -> complexity and performances
+2. when is it better to have more features to decide the inv mgmt rules? -> 
+3. which approach(1~few features vs large set of features) fits better in the Superstore problem case?
+
+### progresssion on this section
+1. background on inv mgmt control and optimization
+- Statistical Methods in Inventory Management
+2. q1) is it always better to use clustering based method to make inv mgmt rules?
+- AS-IS Model: Pros and Cons
+3. q2) which approach(1~few features vs large set of features) fits better in the Superstore problem case?
+
