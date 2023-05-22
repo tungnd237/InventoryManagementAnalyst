@@ -19,10 +19,10 @@ The notebook covers the following areas:
 
 Clone the repository and install the necessary dependencies:
 
-...
+'''
 git clone [<repository_url>](https://github.com/tungnd237/InventoryManagementAnalyst)
 pip install pandas numpy scikit-learn seaborn matplotlib
-...
+'''
 
 ## Dataset
 
